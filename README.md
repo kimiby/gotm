@@ -3,7 +3,6 @@ Golang Task Manager
 
 # Example
 
-
 ```go
 package main
 
@@ -39,3 +38,6 @@ func main() {
 	}
 }
 ```
+
+# License
+The MIT License (MIT)
